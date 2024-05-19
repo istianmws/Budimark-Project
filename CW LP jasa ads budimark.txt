@@ -1,0 +1,102 @@
+Anatomi LP
+
+===Opening==
+
+--headline section--
+Jasa Ads Digital Advertising (H1)
+Iklan mak nyus, Cuan ngalir terus (H2)
+Solusi iklan boncos yang ga cuma ngulik dashboard (subheadline tag <p>)
+--end headline--
+
+--Fact section--
+Jika anda adalah pemilik usaha, saya yakin anda pasti memiliki harapan seperti ini:
+	1. Scale up bisnisnya ketika produk atau jasanya sudah market fit atau banyak diminati pasar
+	2. Beriklan dengan baik, karena inilah cara tercepat melakukan scale up bisnis
+	3. Hire karyawan untuk beriklan, karena beriklan digital membutuhkan keahlian khusus, atau
+	4. Handle iklan yang dilakukan oleh agency digital marketing dengan biaya terjangkau
+
+--end fact--
+
+
+--Problem section-- 
+Hal inilah yang mungkin membuat para bisnis owner seperti anda, melakukan hal-hal berikut ini:
+	1. Belum punya skill beriklan tapi sudah seting iklan sendiri lalu boncos sehingga tidak berani spend budget besar. Padahal bisnis / produknya diterima market dan bisa discale up
+	2. Mengira bahwa kalau sudah beriklan digital maka produk akan laris dengan sendirinya. Sehingga mulai mencoba sendiri beriklan tanpa skill teknis
+	3. Setup iklan membutuhkan skill khusus. Kandidat advertiser berpengalaman sering meminta gaji tinggi, kadang di luar budget perusahaan 
+	4. kebanyakan agency digital marketing cuma sekedar menggugurkan kewajiban dan melayani setting dashboard tanpa menganalisa dan evaluasi faktor lain
+
+Yang itu semua mengakibatkan bisnis anda boros budget marketing dan iklan, sementara tidak ada kenaikan signifikan bagi peningkatan omset bisnis.
+--end problem--
+
+===end opening==
+
+
+===LP Core===
+
+--Introduce product--
+Memperkenalkan layanan digital ads budimark. solusi bagi iklan boncos mulai dari funnel bisnis hingga optimasi delivery iklan, ga sekedar ngulik dashboard
+--end intro--
+
+--Explain product--
+--benefit--
+Di budimark.com, anda akan mendapatkan layanan sebagai berikut:
+	1. Iklan anda akan dihandle secara khusus oleh digital ads expert (1 orang dedicated advertiser), yang sudah menangani klien dengan spend budget >500juta dengan ROI hampir 300% atau mendapatkan keuntungan 3x lipat dari biaya investasi iklan
+	2. Fee iklan fix tanpa kenaikan, berapapun budget iklan anda (berlaku untuk paket-paket tertentu)
+	3. Budget iklan fleksibel, sesuai ketersediaan budget marketing bisnis anda
+	4. Full handle, monitoring performa iklan, report & analaytic, anda terima beres dan fokus pengembangan bisnis / produk
+	5. Kolaborasi antara advertiser kami dengan tim CS anda untuk mengoptimalkan hasil iklan, anda terima beres
+--end benefit--
+
+--fitur--
+Tidak hanya itu saja, anda juga akan mendapatkan:
+	1. Free konsultasi iklan, senilai 500ribu
+	2. Online meeting report & analytic bulanan 
+	3. Unlimited Campaign per produk
+--end fitur--
+
+--How-to-- 
+Lejitkan omset bisnis anda dengan beriklan sekarang. 
+Isikan data diri anda di form yang disediakan, admin sales kami akan menghubungi anda dan memberikan penawaran paket beriklan terbaik sesuai budget anda.
+[CTA] --> ke popup form
+--end how to--
+
+--Proof--
+(SS dashboard ROISTAT pushka, nanti aku kasih)
+--end proof--
+
+--Social proof-- 
+(ini testimoni, yg penting sediakan aja dulu, ada foto dan nama, sama teks testimoninya)
+--end soc proof--
+
+==end LP Core==
+
+
+
+==Closing==
+
+--Bonus section-- 
+Dapatkan bonus berikut, jika anda memutuskan untuk berkolaborasi dengan kami sekarang juga.
+	1. potongan fee jasa untuk kontrak langsung 3 bulan, 
+	2. Free 3-5 ad crceative sebagai materi iklan
+--end bonus--
+
+--Garansi-- 
+Jangan khawatir kami garansi anda akan mendapatkan:
+	1. lead berkualitas / bisa difollow up; 
+	2. winning campaign (best perform campaign)
+	3. ROI/ROAS +, 
+--end garansi--
+ 
+--CTA-- 
+Scale up bisnis anda dengan digital advertising sekarang, hubungi kami, slot klien kami terbatas 
+[button] --> form
+--end CTA--
+
+--FAQ-- (sediakan aja bentuk accordion dummy)
+
+--Closing statement-- 
+(Dalam bisnis, lead memegang peranan kunci bagi nyawa bisnis. Tanpa lead berkualitas, bisnis akan stagnan. Jangan tunggu kompetitor anda mendahului, jangkau pasar potensial dengan digital ads sekarang juga)
+[CTA] ke form
+--end closing statement--
+
+==end Closing==
