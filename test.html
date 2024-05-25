@@ -44,6 +44,53 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
     <!-- MDB -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.2.0/mdb.min.css" rel="stylesheet" />
+    <style>
+        body,
+        html {
+            height: 100%;
+            background-color: white;
+        }
+
+        .container {
+            overflow: hidden;
+
+            .slider {
+                animation: slidein 30s linear infinite;
+                white-space: nowrap;
+
+                .logos {
+                    width: 100%;
+                    display: inline-block;
+                    margin-right: 20px 0;
+
+                    .fab {
+                        width: calc(100% / 5);
+                        animation: fade-in 0.5s cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
+                    }
+                }
+            }
+        }
+
+        @keyframes slidein {
+            from {
+                transform: translate3d(0, 0, 0);
+            }
+
+            to {
+                transform: translate3d(-100%, 0, 0);
+            }
+        }
+
+        @keyframes fade-in {
+            0% {
+                opacity: 0;
+            }
+
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
 </head>
 
 <body style="overflow-x: unset !important;">
@@ -558,7 +605,7 @@
 
                             <div class="col-12 col-sm-6 col-lg-5">
                                 <div class="col-xl-11 col-xxl-10 mx-auto text-center">
-                                    <img src="https://i.ibb.co.com/ngfsYCD/yanuar.png" alt="yanuar" 
+                                    <img src="https://i.ibb.co.com/ngfsYCD/yanuar.png" alt="yanuar"
                                         class="lozad img-fluid img-thumbnail rounded-circle" style="width: 75px;">
                                     <!-- <i class="far fa-user-circle fa-3x mb-2"></i> -->
                                     <p class="mb-2">Pagi Mas, klo feedback mengenai leads course PM (Pattern Making) ini
@@ -572,13 +619,14 @@
                                     <img src="https://i.ibb.co.com/VDyzvqQ/danar.png" alt="danar"
                                         class="lozad img-fluid img-thumbnail rounded-circle" style="width: 75px;">
                                     <!-- <i class="far fa-user-circle fa-3x mb-2"></i> -->
-                                    <p class="mb-2">Hi Mas, Our quick feedback for IIM leads, we got some potential leads.</p>
+                                    <p class="mb-2">Hi Mas, Our quick feedback for IIM leads, we got some potential
+                                        leads.</p>
                                     <p class="m-0 fw-bold">Danar - Sales Officer Genius Space ID</p>
                                 </div>
                             </div>
                             <div class="col-12 col-sm-6 col-lg-5">
                                 <div class="col-xl-11 col-xxl-10 mx-auto text-center">
-                                    <img src="https://i.ibb.co.com/QMFYws9/bisri.png" alt="bisri" 
+                                    <img src="https://i.ibb.co.com/QMFYws9/bisri.png" alt="bisri"
                                         class="lozad img-fluid img-thumbnail rounded-circle" style="width: 75px;">
                                     <!-- <i class="far fa-user-circle fa-3x mb-2"></i> -->
                                     <p class="mb-2">Alhamdulillah setelah dioptimasi, chat yang masuk sudah mulai
@@ -592,7 +640,8 @@
                                     <img src="https://i.ibb.co.com/fF4X3Yb/nailil.png" alt="nailil"
                                         class="lozad img-fluid img-thumbnail rounded-circle" style="width: 75px;">
                                     <!-- <i class="far fa-user-circle fa-3x mb-2"></i> -->
-                                    <p class="mb-2">Leads dari iklan sekarang sudah cukup membantu penjualan ya, disamping dari organik juga.</p>
+                                    <p class="mb-2">Leads dari iklan sekarang sudah cukup membantu penjualan ya,
+                                        disamping dari organik juga.</p>
                                     <p class="m-0 fw-bold">Nailil Fitri - Direktur MySCH.id</p>
                                 </div>
                             </div>
@@ -600,6 +649,45 @@
                     </div>
                 </section>
 
+                <!-- CLient Logo -->
+                <div class="container h-100">
+                    <div class="row align-items-center h-100">
+                        <div class="container rounded">
+                            <h1 class="text-center">klien kami</h1>
+                            <div class="slider inline-block">
+                                <div class="logos">
+                                    <img src="https://i.ibb.co.com/C6tdmNJ/teraz-furniture-removebg-preview.png"
+                                        alt="teraz-furniture-removebg-preview" class="fab img-fluid mx-4">
+                                    <img src="https://i.ibb.co.com/0ssXPXg/pushka-school-removebg-preview.png"
+                                        alt="pushka-school-removebg-preview" class="fab img-fluid mx-4">
+                                    <img src="https://i.ibb.co.com/S5FCGnp/mysch-id-logo-removebg-preview.png"
+                                        alt="mysch-id-logo-removebg-preview" class="fab img-fluid mx-4">
+                                    <img src="https://i.ibb.co.com/q79FKX5/kezia-fs-removebg-preview.png"
+                                        alt="kezia-fs-removebg-preview" class="fab img-fluid mx-4">
+                                    <img src="https://i.ibb.co.com/SR08hkV/hasanah-removebg-preview.png"
+                                        alt="hasanah-removebg-preview" class="fab img-fluid mx-4">
+                                    <img src="https://i.ibb.co.com/SVWTmcT/genius-space.png" class="fab mx-4"
+                                        alt="genius-space">
+                                </div>
+                                <div class="logos">
+                                    <img src="https://i.ibb.co.com/C6tdmNJ/teraz-furniture-removebg-preview.png"
+                                        alt="teraz-furniture-removebg-preview" class="fab img-fluid mx-4">
+                                    <img src="https://i.ibb.co.com/0ssXPXg/pushka-school-removebg-preview.png"
+                                        alt="pushka-school-removebg-preview" class="fab img-fluid mx-4">
+                                    <img src="https://i.ibb.co.com/S5FCGnp/mysch-id-logo-removebg-preview.png"
+                                        alt="mysch-id-logo-removebg-preview" class="fab img-fluid mx-4">
+                                    <img src="https://i.ibb.co.com/q79FKX5/kezia-fs-removebg-preview.png"
+                                        alt="kezia-fs-removebg-preview" class="fab img-fluid mx-4">
+                                    <img src="https://i.ibb.co.com/SR08hkV/hasanah-removebg-preview.png"
+                                        alt="hasanah-removebg-preview" class="fab img-fluid mx-4">
+                                    <img src="https://i.ibb.co.com/SVWTmcT/genius-space.png" class="fab mx-4"
+                                        alt="genius-space">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
 
 
 
